@@ -15,7 +15,7 @@ nav {
 
 .links {
     margin-left: 30%;
-    margin-top: -3.8%;
+    margin-top: -2.5%;
 }
 
 .links ul li {
@@ -392,10 +392,10 @@ input {
     height: 170px;
     border-style: none;
     border-radius: 15px;
-    -webkit-border-radius: ;
-    -moz-border-radius: ;
-    -ms-border-radius: ;
-    -o-border-radius: ;
+    -webkit-border-radius: 15px;
+    -moz-border-radius: 15px;
+    -ms-border-radius: 15px;
+    -o-border-radius: 15px;
 }
 
 .bot {
